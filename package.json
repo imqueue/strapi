@@ -138,7 +138,7 @@
     "lerna": "8.1.2",
     "lint-staged": "15.2.10",
     "lodash": "4.17.21",
-    "nx": "18.2.2",
+    "nx": "22.7.2",
     "plop": "4.0.1",
     "prettier": "3.3.3",
     "prettier-2": "npm:prettier@^2",
